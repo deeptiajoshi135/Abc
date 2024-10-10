@@ -9,6 +9,7 @@ public class SavingAccount {
         int age= 2;
 
         System.out.println(name);
+
     }
 
 }
