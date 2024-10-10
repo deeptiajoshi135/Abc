@@ -7,6 +7,8 @@ public class SavingAccount {
         String name= "Ra";
 
         int age= 2;
+
+        System.out.println(name);
     }
 
 }
