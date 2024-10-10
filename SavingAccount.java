@@ -2,7 +2,8 @@ public class SavingAccount {
 
     public static void main(String[] args) {
 
-        String Name="Ra";
+        System.out.println("My first test for Saving account");
+
     }
 
 }
